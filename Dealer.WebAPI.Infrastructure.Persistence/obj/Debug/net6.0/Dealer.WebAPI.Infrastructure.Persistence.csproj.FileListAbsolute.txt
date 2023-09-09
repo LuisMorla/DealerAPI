@@ -1,0 +1,12 @@
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.deps.json
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\refint\Dealer.WebAPI.Infrastructure.Persistence.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Persistence.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Persistence\obj\Debug\net6.0\ref\Dealer.WebAPI.Infrastructure.Persistence.dll

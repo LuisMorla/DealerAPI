@@ -1,0 +1,17 @@
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.deps.json
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.runtimeconfig.json
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\bin\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\bin\Debug\net6.0\Dealer.WebAPI.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\bin\Debug\net6.0\Dealer.WebAPI.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.csproj.CopyComplete
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\refint\Dealer.WebAPI.Infrastructure.Identity.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\Dealer.WebAPI.Infrastructure.Identity.genruntimeconfig.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Infrastructure.Identity\obj\Debug\net6.0\ref\Dealer.WebAPI.Infrastructure.Identity.dll

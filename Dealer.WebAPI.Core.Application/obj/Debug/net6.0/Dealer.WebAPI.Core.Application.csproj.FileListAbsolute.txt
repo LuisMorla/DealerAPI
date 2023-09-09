@@ -1,0 +1,12 @@
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\bin\Debug\net6.0\Dealer.WebAPI.Core.Application.deps.json
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\bin\Debug\net6.0\Dealer.WebAPI.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\bin\Debug\net6.0\Dealer.WebAPI.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.csproj.AssemblyReference.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.AssemblyInfoInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.AssemblyInfo.cs
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\refint\Dealer.WebAPI.Core.Application.dll
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\Dealer.WebAPI.Core.Application.pdb
+C:\Users\luis0\OneDrive\Escritorio\2023 C-3\TDS\Dealer.WebAPI\Dealer.WebAPI.Core.Application\obj\Debug\net6.0\ref\Dealer.WebAPI.Core.Application.dll
